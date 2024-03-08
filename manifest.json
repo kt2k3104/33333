@@ -1,0 +1,65 @@
+{
+    "name": "WJ.Game- Fortune Rabbit™",
+    "short_name": "WJ.Game- Fortune Rabbit™",
+    "icons": [
+        {
+            "src": "https://assets-global.website-files.com/656989b8f04def588c950116/656989e1da22f1701e0acdcd_AVT.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://assets-global.website-files.com/656989b8f04def588c950116/656989e1da22f1701e0acdcd_AVT.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "https://assets-global.website-files.com/656989b8f04def588c950116/656989e1da22f1701e0acdcd_AVT.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "display_Override": [
+        "window-controls-overlay"
+    ],
+    "edge_side_panel": {
+        "preferred_width": 496
+    },
+    "start_url": "./webapp.html",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#1976d2",
+    "related_applications": [
+        {
+            "platform": "webapp",
+            "url": "https://app.example.com/manifest.json"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "https://static.w2.app/20240212/376e4709da9123f.jpg",
+            "sizes": "330x587",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://static.w2.app/20240212/3f0e5e3ffc871b6.jpg",
+            "sizes": "330x587",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://static.w2.app/20240212/9c8a90df064bc73.jpg",
+            "sizes": "330x587",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://static.w2.app/20240212/7526d5509cfb3b8.jpg",
+            "sizes": "330x587",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "https://static.w2.app/20240212/d436eb870077abe.jpg",
+            "sizes": "330x587",
+            "type": "image/jpeg"
+        }
+    ]
+}
